@@ -1,1 +1,12 @@
 # Aerofit-Python-Probability-Project
+
+Aerofit-Descriptive Statistics and Probability(Probability and Statistics project using Python)
+Mar 2024 - Mar 2024Mar 2024 - Mar 2024
+
+Spearheaded a detail descriptive statistic oriented project focusing on the Aerofit dataset. This project equipped me with valuable skills in EDA, working with large datasets, supply chain analysis of treadmills, probability and descriptive statistics and deriving actionable insights to drive requisitions for business.
+Deciphered KP781 is suitable for high class customers whereas for general customers KP281 is in demand.
+In conclusion, the analysis revealed that KP281 is the most preferred treadmill model among customers, especially those aged 20-26, while KP781 is favored by individuals with higher incomes. 
+Partnered customers showed a higher likelihood of purchasing, suggesting targeted marketing efforts towards this segment. 
+AeroFit should capitalize on KP781's high ratings and mileage capacity, while offering discounts on KP481 to attract mid-range buyers. 
+Expanding the product line to cater to niche segments could further drive growth. Overall, AeroFit can enhance its marketing strategies and product offerings to better meet customer needs and preferences, ensuring continued success in the fitness equipment market.Spearheaded a detail descriptive statistic oriented project focusing on the Aerofit dataset. This project equipped me with valuable skills in EDA, working with large datasets, supply chain analysis of treadmills, probability and descriptive statistics and deriving actionable insights to drive requisitions for business. Deciphered KP781 is suitable for high class customers whereas for general customers KP281 is in demand. In conclusion, the analysis revealed that KP281 is the most preferred treadmill model among customers, especially those aged 20-26, while KP781 is favored by individuals with higher incomes. Partnered customers showed a higher likelihood of purchasing, suggesting targeted marketing efforts towards this segment. AeroFit should capitalize on KP781's high ratings and mileage capacity, while offering discounts on KP481 to attract mid-range buyers. Expanding the product line to cater to niche segments could further drive growth. Overall, AeroFit can enhance its marketing strategies and product offerings to better meet customer needs and preferences, ensuring continued success in the fitness equipment market.
+Skills: EDA · Probability · Statistics · Statistical Data Analysis · Data Analysis · SciPy
